@@ -1,0 +1,15 @@
+﻿========================================
+Log Analysis Report
+========================================
+Date           : 06/27/2026 16:10:41
+Log Name       : Security
+Total Events   : 1000
+
+Event Statistics:
+   Failed Logins (4625)      : 1
+   Successful Logins (4624)  : 41
+   New Accounts (4720)       : 0
+   Privilege Escalation (4672): 40
+   Account Lockouts (4740)   : 0
+   Account Deleted (4726)    : 0
+
